@@ -1,5 +1,5 @@
 ### Discription
-#### INSTRUMENTAL_VOCAL
+###### INSTRUMENTAL_VOCAL
 Instrumental Vocal Regulator
 Values ​​from -8 to 8, where 0 is disabled, to -8 more instrumental part is allocated, up to 8 vocals are allocated
 
