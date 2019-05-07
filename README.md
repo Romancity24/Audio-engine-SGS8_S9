@@ -1,8 +1,9 @@
-INSTRUMENTAL_VOCAL
+### Discription
+#### INSTRUMENTAL_VOCAL
 Instrumental Vocal Regulator
 Values ​​from -8 to 8, where 0 is disabled, to -8 more instrumental part is allocated, up to 8 vocals are allocated
 
-BASS_TRABLE
+#### BASS_TRABLE
 Low and high frequency control
 Values ​​from -8 to 8, where 0 is disabled, -8 bass is allocated, up to 8 high frequencies
 
